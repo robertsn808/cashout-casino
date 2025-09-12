@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sudo apt:*)",
+      "Bash(sudo apt install:*)",
+      "Bash(chmod:*)",
+      "Bash(sudo netstat:*)",
+      "Bash(sudo ufw:*)",
+      "Bash(sudo:*)",
+      "Bash(netstat:*)",
+      "Bash(ss:*)",
+      "Bash(ip route:*)",
+      "Bash(curl:*)",
+      "Bash(php)",
+      "Bash(php artisan:*)",
+      "Bash(./backup_for_migration.sh)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

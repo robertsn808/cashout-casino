@@ -1,0 +1,64 @@
+# Laravel specific
+/casino/vendor/
+/casino/node_modules/
+/casino/public/hot
+/casino/public/storage
+/casino/storage/*.key
+/casino/.env
+/casino/.env.backup
+/casino/.phpunit.result.cache
+/casino/Homestead.json
+/casino/Homestead.yaml
+/casino/npm-debug.log
+/casino/yarn-error.log
+/casino/.DS_Store
+/casino/Thumbs.db
+
+# Casino WebSocket
+/casino/PTWebSocket/node_modules/
+
+# SSL Certificates (security)
+/casino/PTWebSocket/ssl/*.crt
+/casino/PTWebSocket/ssl/*.key
+/casino/PTWebSocket/ssl/*.pem
+
+# Database backups
+casino_migration_backup/
+*.sql
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+/casino/storage/logs/*.log
+
+# Cache and temporary files
+/casino/bootstrap/cache/*
+/casino/storage/framework/cache/*
+/casino/storage/framework/sessions/*
+/casino/storage/framework/views/*
+
+# User uploaded files
+/casino/storage/app/public/*
+
+# Composer
+composer.phar
+
+# NPM
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
