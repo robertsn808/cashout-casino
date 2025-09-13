@@ -1,13 +1,8 @@
 {
-
 "port":"22154/slots",
-
-"host":"377casino.com",
+"host":"cashout.realconnect.online",
 "prefix":"https://",
-
-"host_ws":"377casino.com",
+"host_ws":"cashout.realconnect.online",
 "prefix_ws":"wss://",
-
 "ssl":true
-
 }
