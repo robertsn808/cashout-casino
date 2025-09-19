@@ -163,7 +163,9 @@ wss1.on('connection', function connection(ws) {
   
     
   
-var request = require('request');
+var request = require('axios');
+const res = await axios.get('https://example.com');
+
 
 var gameName='';
 

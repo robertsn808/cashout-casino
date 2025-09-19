@@ -85,7 +85,9 @@ function SendMessageToPHP(ws,params,ab){
 	
  
  /*------------------------*/
-var request = require('request');
+const axios = require('axios');
+const res = await axios.get('https://example.com');
+  
 var gameName='';
 var ck=ws.cookie;
 var sessionId=ws.sessionId;
