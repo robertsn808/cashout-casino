@@ -637,7 +637,7 @@ if (file_exists($txtFilePath)) {
                 return 'NULL';
             }
         }
-        public function SetBank($slotState = '', $sum, $slotEvent = '')
+        public function SetBank($slotState = '', $sum = 0, $slotEvent = '')
         {
             if( $this->isBonusStart || $slotState == 'bonus' || $slotState == 'freespin' || $slotState == 'respin' ) 
             {

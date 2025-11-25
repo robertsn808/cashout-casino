@@ -698,7 +698,7 @@ if (file_exists($txtFilePath)) {
             file_put_contents(storage_path('logs/') . $this->slotId . 'Internal.log', $slg . $strLog);
             exit( '' );
         }
-        public function SetBank($slotState = '', $sum, $slotEvent = '')
+        public function SetBank($slotState = '', $sum = 0, $slotEvent = '')
         {
             if( $this->isBonusStart || $slotState == 'bonus' || $slotState == 'freespin' || $slotState == 'respin' ) 
             {

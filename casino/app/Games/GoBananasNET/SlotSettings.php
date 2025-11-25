@@ -678,7 +678,7 @@ namespace VanguardLTE\Games\GoBananasNET
             }
             file_put_contents(storage_path('logs/') . $this->slotId . 'Internal.log', $slg . $strLog);
         }
-        public function SetBank($slotState = '', $sum, $slotEvent = '')
+        public function SetBank($slotState = '', $sum = 0, $slotEvent = '')
         {
             if( $this->isBonusStart || $slotState == 'bonus' || $slotState == 'freespin' || $slotState == 'respin' ) 
             {
