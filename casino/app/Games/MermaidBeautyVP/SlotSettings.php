@@ -73,7 +73,6 @@ namespace VanguardLTE\Games\MermaidBeautyVP
         public $betProfit = null;
         public $betRemains = null;
         public $betRemains0 = null;
-        public $isBonusStart = false;
         public function __construct($sid, $playerId)
         {
             $this->slotId = $sid;
