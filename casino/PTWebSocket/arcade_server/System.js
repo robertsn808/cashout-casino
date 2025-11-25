@@ -1569,7 +1569,6 @@ let param={
 command:"CheckAuth"
 };
 let request = require('axios');
-const res = await axios.get('https://example.com');
 let paramStr=JSON.stringify(param);
 
 

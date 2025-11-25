@@ -1,0 +1,62 @@
+{
+	"20000": {
+		"key": 20000,
+		"cn": "$1",
+		"en": "$1",
+		"vi": "$1",
+		"ms": "$1",
+		"id": "$1",
+		"th": "$1",
+		"power": 1
+	},
+	"20001": {
+		"key": 20001,
+		"cn": "恭喜玩家<font color=0xfe03ef>$1</font>获得$2彩金<font color=0xf9f811>$3</font>",
+		"en": "Congratulations!<font color=0xfe03ef>$1</font>had won $2 jackpot <font color=0xf9f811>$3</font>",
+		"vi": "chúc mừng người chơi <font color=0xfe03ef>$1</font>đã chiến thắng $2jackpot <font color=0xf9f811>$3</font>",
+		"ms": "Tahniah !<font color=0xfe03ef>$1</font> Telah Memenangi $2 Jackpot <font color=0xf9f811>$3</font>",
+		"id": "Selamat! <font color = 0xfe03ef>$1</font> telah memenangkan jackpot $2 <font color = 0xf9f811>$3</font>",
+		"th": "ขอแสดงความยินดีกับผู้เล่น  <font color = 0xfe03ef>$1</ font> สำหรับการชนะ $2 <font color = 0xf9f811>$3</font>",
+		"power": 1
+	},
+	"20002": {
+		"key": 20002,
+		"cn": "系统将在$1-$2进行停服更新，期间将无法进行游戏",
+		"en": "System will be offline for schedule maintanance during $1-$2. All games will be unavailable during this time. ",
+		"vi": "hệ thống sẽ tạm dừng dịch vụ từ $1-$2 để tiến hành nâng cấp, trong thời gian trên không thể vào trò chơi",
+		"ms": "Sistem Berada Luar Talian Untuk Jadual Baikpulih $1-$2. Semua Permainan Tidak Didapati Ketika Masa Ini.",
+		"id": "Sistem akan offline untuk pemeliharaan jadwal selama $1- $2. Semua game tidak akan tersedia selama waktu ini.",
+		"th": "ระบบจะอัปเดตที่  $1- $2.และเกมจะไม่สามารถใช้ได้ในช่วงเวลานี้",
+		"power": 2
+	},
+	"20003": {
+		"key": 20003,
+		"cn": "游戏将在$1关闭",
+		"en": "All games will be shutdown at $1",
+		"vi": "game sẽ kết thúc vào lúc $1",
+		"ms": "Semua Permainan Akan Ditutup Pada $1",
+		"id": "Semua permainan akan ditutup pada $1",
+		"th": "เกมจะปิดที่  $1",
+		"power": 1
+	},
+	"20004": {
+		"key": 20004,
+		"cn": "比赛模式将在$1开启，系统即将进行模式切换，时间为30分钟，期间无法进入游戏，敬请原谅！",
+		"en": "Contest mode will start from $1, system will automatically change mode. The duration will be 30 minutes. You can't log into game during this period.Sorry.",
+		"vi": "Chế độ thi đấu sẽ khởi động lúc $1. Hệ thống sắp tiến hành chuyển chế độ, thời gian chuyển đổi là 30 phút. Bạn không thể vào trò chơi trong thời gian này, vui lòng thông cảm!",
+		"ms": "Mod peraduan akan bermula dari $1, sistem akan menukar mod secara automatik. Tempohnya ialah 30 minit. Anda tidak boleh masuk ke dalam permainan semasa tempoh ini. Minta maaf.",
+		"id": "Mode kontes akan dimulai dari $1, sistem akan mengubah mode secara otomatis. Durasi 30 menit. Anda tidak bisa masuk ke game selama periode ini. Maaf soal itu.",
+		"th": "โหมดการแข่งขันจะเริ่มต้นจาก $1 ระบบจะเปลี่ยนโหมดโดยอัตโนมัติระยะเวลา 30 นาทีคุณไม่สามารถเข้าสู่เกมในช่วงเวลานี้ได",
+		"power": 1
+	},
+	"20005": {
+		"key": 20005,
+		"cn": "比赛模式将在$1结束，系统即将进入结算派奖阶段，时间为30分钟，期间无法进入游戏，敬请原谅！",
+		"en": "Contest mode will end at $1, system will enter prize winning calculation process. The duration will be 30 minutes. You can't log into game during this period.Sorry.",
+		"vi": "Chế độ thi đấu sẽ kết thúc vào lúc $1. Hệ thống sẽ tiến hành kết thúc giải và phát thưởng. Thời gian tiến hành là 30 phút, trong khoảng thời gian này bạn không thể vào trò chơi, vui lòng thông cảm!",
+		"ms": "Mod peraduan akan berakhir pada $1, sistem akan memasuki proses pengiraan pemenang hadiah. Tempohnya ialah 30 minit. Anda tidak boleh masuk ke dalam permainan semasa tempoh ini.Minta maaf.",
+		"id": "Mode kontes berakhir pada $1, sistem memasuki proses penghitungan pemenang hadiah. Durasi 30 menit. Anda tidak dapat memasuki game selama periode waktu ini. Maaf.",
+		"th": "โหมดการแข่งขันจะสิ้นสุดที่ $1 ระบบจะเข้าสู่กระบวนการคำนวณที่ชนะรางวัลระยะเวลา 30 นาที  คุณไม่สามารถลงชื่อเข้าใช้เกมในช่วงเวลานี้ขออภัย",
+		"power": 1
+	}
+}

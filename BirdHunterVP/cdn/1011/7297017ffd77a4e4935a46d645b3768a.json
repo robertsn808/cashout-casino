@@ -1,0 +1,12 @@
+{
+	"firstEnterTips": "FirstEnterTips",
+	"userKicked": "UserKicked",
+	"coinNotEnough": "CoinNotEnough",
+	"tooFast": "TooFast",
+	"fishesComing": "BirdsComing",
+	"socketError": "SocketError",
+	"bulletEnough": "The number of bullets has reached the limit, please operate later",
+	"chooseTable": "chooseTable",
+	"full": "full",
+	"positionOccupied": "This position is occupied"
+}

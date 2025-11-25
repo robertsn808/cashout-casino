@@ -82,12 +82,10 @@ function hexToArrayBuffer (hex) {
 
 
 function SendMessageToPHP(ws,params,ab){
-	
- 
+
+
  /*------------------------*/
-const axios = require('axios');
-const res = await axios.get('https://example.com');
-  
+
 var gameName='';
 var ck=ws.cookie;
 var sessionId=ws.sessionId;

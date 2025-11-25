@@ -3,7 +3,7 @@ namespace VanguardLTE
 {
     class FishBank extends \Illuminate\Database\Eloquent\Model
     {
-        protected $table = 'fish_bank';
+        protected $table = 'fish_banks';
         protected $fillable = [
             'fish', 
             'shop_id'

@@ -1,0 +1,50 @@
+{
+	"groups": [
+		{
+			"keys": "popup_json,Zaxiang_json,popupConfig_json,Announcement_json,jackPot2_json,jackPot1_json,jackPot0_json",
+			"name": "public"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/images/popup.json",
+			"type": "sheet",
+			"name": "popup_json",
+			"subkeys": "notice20001,noticeBg,popup_bg,popup_bg2,popup_cn1_1,popup_cn1_2,popup_cn2_1,popup_cn2_2,popup_cn3_1,popup_cn3_2,popup_cn4_1,popup_cn4_2,popup_en1_1,popup_en1_2,popup_en2_1,popup_en2_2,popup_en3_1,popup_en3_2,popup_en4_1,popup_en4_2,popup_id1_1,popup_id1_2,popup_id2_1,popup_id2_2,popup_id3_1,popup_id3_2,popup_id4_1,popup_id4_2,popup_ms1_1,popup_ms1_2,popup_ms2_1,popup_ms2_2,popup_ms3_1,popup_ms3_2,popup_ms4_1,popup_ms4_2,popup_vi1_1,popup_vi1_2,popup_vi2_1,popup_vi2_2,popup_vi3_1,popup_vi3_2,popup_vi4_1,popup_vi4_2"
+		},
+		{
+			"url": "assets/configs/Announcement.json",
+			"type": "json",
+			"name": "Announcement_json"
+		},
+		{
+			"url": "assets/configs/popupConfig.json",
+			"type": "json",
+			"name": "popupConfig_json"
+		},
+		{
+			"url": "assets/configs/Zaxiang.json",
+			"type": "json",
+			"name": "Zaxiang_json"
+		},
+		{
+			"url": "assets/images/jackPot0.json",
+			"type": "sheet",
+			"name": "jackPot0_json",
+			"subkeys": "bombCoin_0,bombCoin_1,bombCoin_10,bombCoin_11,bombCoin_12,bombCoin_13,bombCoin_14,bombCoin_15,bombCoin_16,bombCoin_17,bombCoin_18,bombCoin_2,bombCoin_3,bombCoin_4,bombCoin_5,bombCoin_6,bombCoin_7,bombCoin_8,bombCoin_9,btn_back_normal,btn_back_press,font_+,font_,,font_-,font_.,font_0,font_1,font_2,font_3,font_4,font_5,font_6,font_7,font_8,font_9,font_x,notice_box,notice_frame,txt_light,txt_major_cn,txt_major_en,txt_minor_cn,txt_minor_en,txt_platform_cn,txt_platform_en,txt_random_cn,txt_random_en"
+		},
+		{
+			"url": "assets/images/jackPot2.json",
+			"type": "sheet",
+			"name": "jackPot2_json",
+			"subkeys": "bg_light,bombCoin_37,bombCoin_38,bombCoin_39,bombCoin_40,bombCoin_41,bombCoin_42,bombCoin_43,bombCoin_44,bombCoin_45,bombCoin_46,bombCoin_47,bombCoin_48,bombCoin_49,win_jackpot_bg"
+		},
+		{
+			"url": "assets/images/jackPot1.json",
+			"type": "sheet",
+			"name": "jackPot1_json",
+			"subkeys": "bombCoin_19,bombCoin_20,bombCoin_21,bombCoin_22,bombCoin_23,bombCoin_24,bombCoin_25,bombCoin_26,bombCoin_27,bombCoin_28,bombCoin_29,bombCoin_30,bombCoin_31,bombCoin_32,bombCoin_33,bombCoin_34,bombCoin_35,bombCoin_36"
+		}
+		
+	]
+}

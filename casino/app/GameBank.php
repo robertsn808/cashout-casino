@@ -3,7 +3,7 @@ namespace VanguardLTE
 {
     class GameBank extends \Illuminate\Database\Eloquent\Model
     {
-        protected $table = 'game_bank';
+        protected $table = 'game_banks';
         protected $fillable = [
             'slots', 
             'little', 

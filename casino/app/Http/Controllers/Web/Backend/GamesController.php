@@ -35,6 +35,11 @@ namespace VanguardLTE\Http\Controllers\Web\Backend
             ];
             $categories = \VanguardLTE\Category::where(['parent' => 0])->get();
             $games = \VanguardLTE\Game::select('games.*')->where('shop_id', auth()->user()->shop_id);
+            // Load only visible games by default to improve performance
+            if( !$request->has('view') && !$request->has('search') )
+            {
+                $games = $games->where('view', 1);
+            }
             if( $request->order ) 
             {
                 switch( $request->order ) 

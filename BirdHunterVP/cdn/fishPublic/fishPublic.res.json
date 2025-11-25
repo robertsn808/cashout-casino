@@ -1,0 +1,22 @@
+{
+	"groups": [
+		{
+			"keys": "chooseTable_json,common_json",
+			"name": "fishPublic"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/chooseTable.json",
+			"type": "sheet",
+			"name": "chooseTable_json",
+			"subkeys": "back,back_click,digit_0,digit_1,digit_2,digit_3,digit_4,digit_5,digit_6,digit_7,digit_8,digit_9,list_bg,novice_hall_cn,people0,people1,people2,people3,people4,people5,table,title_bg"
+		},
+		{
+			"url": "assets/common.json",
+			"type": "sheet",
+			"name": "common_json",
+			"subkeys": "chooseScorePanel,frame,golden0,golden1,golden2,golden3,golden4,golden5,golden6,golden7,golden8,golden9,hundred_cn,hundred_en,return_cn,return_en,tenThousand_cn,tenThousand_en,thousand_cn,thousand_en,tips"
+		}
+	]
+}

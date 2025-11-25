@@ -26,8 +26,8 @@ namespace VanguardLTE\Http\Controllers\Web\Frontend
             $shop_id = (\Illuminate\Support\Facades\Auth::check() ? auth()->user()->shop_id : 1);
             $shop = \VanguardLTE\Shop::find($shop_id);
             $games = \VanguardLTE\Game::where([
-                'view' => 1, 
-                'shop_id' => 0
+                'view' => 1,
+                'shop_id' => $shop_id
             ]);
             
             $frontend = settings('frontend');

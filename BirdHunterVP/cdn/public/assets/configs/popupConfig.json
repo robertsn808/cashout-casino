@@ -1,0 +1,761 @@
+{
+	"11000": {
+		"key": 11000,
+		"type": 1,
+		"cn": "亲，您的网络开小差了哦（C000）",
+		"en": "Opps, it seems that there is some issue with your network（C000）",
+		"vi": "bạn thân mến, mạng của bạn lỗi rồi ~（C000）",
+		"ms": "Opps, Kelihatan Ada Masalah Dengan Rangkaian Anda（C000）",
+		"id": "Opps, sepertinya ada beberapa masalah dengan jaringan Anda（C000）",
+		"th": "เรียน เครือข่ายของคุณแย่ลง (C000)",
+		"button": [
+			{
+				"state": 1,
+				"operate": 10
+			},
+			{
+				"state": 2,
+				"operate": 11
+			}
+		],
+		"time": 0,
+		"power": 1,
+		"timeout": -1
+	},
+	"11001": {
+		"key": 11001,
+		"type": 1,
+		"cn": "亲，游戏将于$1s后自动关闭哦（C001）",
+		"en": "Opps, Game will exit in $1 seconds（C001）",
+		"vi": "bạn ơi, trò chơi của bạn sẽ tự động đóng trong $1s nữa nhé（C001）",
+		"ms": "Opps, Permainan Akan Keluar Dalam Masa $1 Saat （C001）",
+		"id": "Opps, Game akan keluar dalam 27 detik（C001）",
+		"th": "เรียน เกมจะปิดโดยอัตโนมัติหลังจาก $1 s (C001)",
+		"button": [
+			{
+				"state": 3,
+				"operate": -1
+			},
+			{
+				"state": 2,
+				"operate": 11
+			}
+		],
+		"time": 30,
+		"power": 2,
+		"timeout": 1
+	},
+	"11002": {
+		"key": 11002,
+		"type": 1,
+		"cn": "亲，您的网络开小差了哦（C002）",
+		"en": "Opps, it seems that there is some issue with your network（C002）",
+		"vi": "bạn thân mến, mạng của bạn lỗi rồi ~（C002）",
+		"ms": "Opps, Kelihatan Ada Masalah Dengan Rangkaian Anda（C002）",
+		"id": "Opps, sepertinya ada beberapa masalah dengan jaringan Anda（C002）",
+		"th": "เรียน เครือข่ายของคุณแย่ลง (C002)",
+		"button": [
+			{
+				"state": 1,
+				"operate": 10
+			},
+			{
+				"state": 2,
+				"operate": 11
+			}
+		],
+		"time": 0,
+		"power": 3,
+		"timeout": -1
+	},
+	"11003": {
+		"key": 11003,
+		"type": 1,
+		"cn": "亲，您余额不足哦（C003）",
+		"en": "Opps, you have insufficient balance（C003）",
+		"vi": "bạn ơi, số dư của bạn không đủ nha（C003）",
+		"ms": "Opps, Baki Anda Tidak Mencukupi（C003）",
+		"id": "Opps, saldo Anda tidak mencukupi（C003）",
+		"th": "เรียน คุณมียอดเงินไม่เพียงพอ (C003)",
+		"button": [
+			{
+				"state": 4,
+				"operate": -1
+			},
+			{
+				"state": 2,
+				"operate": 11
+			}
+		],
+		"time": 0,
+		"power": 4,
+		"timeout": -1
+	},
+	"11004": {
+		"key": 11004,
+		"type": 1,
+		"cn": "亲，您的网络开小差了哦（C004）",
+		"en": "Opps, it seems that there is some issue with your network（C004）",
+		"vi": "bạn thân mến, mạng của bạn lỗi rồi ~（C004）",
+		"ms": "Opps, Kelihatan Ada Masalah Dengan Rangkaian Anda（C004）",
+		"id": "Opps, sepertinya ada beberapa masalah dengan jaringan Anda（C004）",
+		"th": "เรียน เครือข่ายของคุณแย่ลง (C004)",
+		"button": [
+			{
+				"state": 1,
+				"operate": 10
+			},
+			{
+				"state": 2,
+				"operate": 11
+			}
+		],
+		"time": 0,
+		"power": 5,
+		"timeout": -1
+	},
+	"11005": {
+		"key": 11005,
+		"type": 1,
+		"cn": "亲，您的网络开小差了哦（C005）",
+		"en": "Opps, it seems that there is some issue with your network（C005）",
+		"vi": "bạn thân mến, mạng của bạn lỗi rồi ~（C005）",
+		"ms": "Opps, Kelihatan Ada Masalah Dengan Rangkaian Anda（C005）",
+		"id": "Opps, sepertinya ada beberapa masalah dengan jaringan Anda（C005）",
+		"th": "เรียน เครือข่ายของคุณแย่ลง (C005)",
+		"button": [
+			{
+				"state": 4,
+				"operate": 11
+			},
+			{
+				"state": -1,
+				"operate": 11
+			}
+		],
+		"time": 0,
+		"power": 6,
+		"timeout": -1
+	},
+	"10000": {
+		"key": 10000,
+		"type": 2,
+		"cn": "亲，请先登陆账号哦（S000）",
+		"en": "Opps，you must login to continue（S000）",
+		"vi": "bạn ơi, bạn phải đăng nhập trước đã nhé（S000）",
+		"ms": "Opps, Anda Mestilah Log Masuk Untuk Sambung（S000）",
+		"id": "Opps, Anda harus masuk untuk melanjutkan（S000）",
+		"th": "เรียน โปรดเข้าสู่บัญชีของคุณก่อน (S000)",
+		"button": [
+			{
+				"state": 4,
+				"operate": 12
+			},
+			{
+				"state": -1,
+				"operate": 10
+			}
+		],
+		"time": 0,
+		"power": 7,
+		"timeout": -1
+	},
+	"10001": {
+		"key": 10001,
+		"type": 2,
+		"cn": "亲，您的网络开小差了哦（S001）",
+		"en": "Opps, it seems that there is some issue with your network（S001）",
+		"vi": "bạn thân mến, mạng của bạn lỗi rồi ~（S001）",
+		"ms": "Opps, Kelihatan Ada Masalah Dengan Rangkaian Anda（S001）",
+		"id": "Opps, sepertinya ada beberapa masalah dengan jaringan Anda（S001）",
+		"th": "เรียน เครือข่ายของคุณกำลังทำงานไม่ดี (S001)",
+		"button": [
+			{
+				"state": 1,
+				"operate": 10
+			},
+			{
+				"state": 2,
+				"operate": 11
+			}
+		],
+		"time": 0,
+		"power": 8,
+		"timeout": -1
+	},
+	"10002": {
+		"key": 10002,
+		"type": 2,
+		"cn": "亲，您余额不足哦（S002）",
+		"en": "Opps, you have insufficient balance（S002）",
+		"vi": "bạn ơi, số dư của bạn không đủ nha（S002）",
+		"ms": "Opps, Baki Anda Tidak Mencukupi（S002）",
+		"id": "Opps, saldo Anda tidak mencukupi（S002）",
+		"th": "เรียน คุณมียอดเงินไม่เพียงพอ (S002)",
+		"button": [
+			{
+				"state": 4,
+				"operate": -1
+			},
+			{
+				"state": 2,
+				"operate": 11
+			}
+		],
+		"time": 0,
+		"power": 9,
+		"timeout": -1
+	},
+	"10003": {
+		"key": 10003,
+		"type": 2,
+		"cn": "亲，您的网络开小差了哦（S003）",
+		"en": "Opps, it seems that there is some issue with your network（S003）",
+		"vi": "bạn thân mến, mạng của bạn lỗi rồi ~（S003）",
+		"ms": "Opps, Kelihatan Ada Masalah Dengan Rangkaian Anda（S003）",
+		"id": "Opps, sepertinya ada beberapa masalah dengan jaringan Anda（S003）",
+		"th": "เรียน เครือข่ายของคุณแย่ลง (S003)",
+		"button": [
+			{
+				"state": 1,
+				"operate": 10
+			},
+			{
+				"state": 2,
+				"operate": 11
+			}
+		],
+		"time": 0,
+		"power": 10,
+		"timeout": -1
+	},
+	"10004": {
+		"key": 10004,
+		"type": 2,
+		"cn": "亲，您的网络开小差了哦（S004）",
+		"en": "Opps, it seems that there is some issue with your network（S004）",
+		"vi": "bạn thân mến, mạng của bạn lỗi rồi ~（S004）",
+		"ms": "Opps, Kelihatan Ada Masalah Dengan Rangkaian Anda（S004）",
+		"id": "Opps, sepertinya ada beberapa masalah dengan jaringan Anda（S004）",
+		"th": "เรียน เครือข่ายของคุณทำงานไม่ดี (S004)",
+		"button": [
+			{
+				"state": 1,
+				"operate": 10
+			},
+			{
+				"state": 2,
+				"operate": 11
+			}
+		],
+		"time": 0,
+		"power": 11,
+		"timeout": -1
+	},
+	"10005": {
+		"key": 10005,
+		"type": 2,
+		"cn": "亲，您的操作不合法哦（S005）",
+		"en": "Opps, illegal operation（S005）",
+		"vi": "bạn ơi, thao tác của bạn là không hợp pháp nhé（S005）",
+		"ms": "Opps, Operasi Tidak Sah（S005）",
+		"id": "Opps, operasi ilegal（S005）",
+		"th": "เรียน การทำงานของคุณผิดกฎหมาย (S005)",
+		"button": [
+			{
+				"state": 4,
+				"operate": -1
+			},
+			{
+				"state": 2,
+				"operate": 11
+			}
+		],
+		"time": 0,
+		"power": 12,
+		"timeout": -1
+	},
+	"10006": {
+		"key": 10006,
+		"type": 2,
+		"cn": "亲，登陆过期，请重新登陆呢（S006）",
+		"en": "Opps, you had been logout, please re-login（S006）",
+		"vi": "bạn ơi, đăng nhập quá hạn rồi, mời bạn đăng nhập lại nhé（S006）",
+		"ms": "Opps, Anda Sudah Log Keluar, Sila Log Masuk Semula（S006）",
+		"id": "Opps, Anda telah keluar, harap masuk kembali（S006）",
+		"th": "เรียน การเข้าสู่ระบบหมดอายุโปรดเข้าสู่ระบบอีกครั้ง (S006)",
+		"button": [
+			{
+				"state": 4,
+				"operate": 12
+			},
+			{
+				"state": -1,
+				"operate": 10
+			}
+		],
+		"time": 0,
+		"power": 13,
+		"timeout": -1
+	},
+	"10007": {
+		"key": 10007,
+		"type": 2,
+		"cn": "亲，您的账号已被禁用（S007）",
+		"en": "Opps, you account had been banned（S007）",
+		"vi": "bạn ơi, tài khoản của bạn đã bị khoá mất rồi（S007）",
+		"ms": "Opps, Akaun Anda Sudah Dihalang（S007）",
+		"id": "Opps, akun Anda telah diblokir（S007）",
+		"th": "เรียน บัญชีของคุณถูกปิดใช้งาน (S007)",
+		"button": [
+			{
+				"state": 4,
+				"operate": 12
+			},
+			{
+				"state": -1,
+				"operate": 10
+			}
+		],
+		"time": 0,
+		"power": 14,
+		"timeout": -1
+	},
+	"10008": {
+		"key": 10008,
+		"type": 2,
+		"cn": "亲，当前人数已满，请更换游戏（S008）",
+		"en": "Opps, table full, please try another game（S008）",
+		"vi": "bạn ơi, trò chơi này full mất rồi, bạn chọn trò khác nhé（S008）",
+		"ms": "Opps, Meja Penuh, Sila Cuba Permainan Yang Lain（S008）",
+		"id": "Opps, tabel penuh, silakan coba game lain（S008）",
+		"th": "เรียน หมายเลขปัจจุบันเต็มโปรดเปลี่ยนเกม (S008)",
+		"button": [
+			{
+				"state": 4,
+				"operate": 11
+			},
+			{
+				"state": -1,
+				"operate": 11
+			}
+		],
+		"time": 0,
+		"power": 15,
+		"timeout": -1
+	},
+	"10009": {
+		"key": 10009,
+		"type": 2,
+		"cn": "亲，进入游戏失败，请重新进入哦（S009）",
+		"en": "Opps, failed to join game, please try again（S009）",
+		"vi": "bạn ơi, vào trò chơi thất bại rồi, bạn vào lại nhé（S009）",
+		"ms": "Opps, Telah Gagal Untuk Bersama Permainan, Sila Cuba Lagi（S009）",
+		"id": "Opps, gagal bergabung dengan game, silakan coba lagi（S009）",
+		"th": "เรียน ไม่สามารถเข้าเกมได้โปรดป้อนใหม่ (S009)",
+		"button": [
+			{
+				"state": 4,
+				"operate": 11
+			},
+			{
+				"state": -1,
+				"operate": 11
+			}
+		],
+		"time": 0,
+		"power": 16,
+		"timeout": -1
+	},
+	"10010": {
+		"key": 10010,
+		"type": 2,
+		"cn": "亲，进入游戏失败，请重新进入哦（S010）",
+		"en": "Opps, failed to join game, please try again（S010）",
+		"vi": "bạn ơi, vào trò chơi thất bại rồi, bạn vào lại nhé（S010）",
+		"ms": "Opps, Telah Gagal Untuk Bersama Permainan, Sila Cuba Lagi（S010）",
+		"id": "Opps, gagal bergabung dengan game, silakan coba lagi（S010）",
+		"th": "เรียน ไม่สามารถเข้าเกมได้โปรดป้อนใหม่ (S010)",
+		"button": [
+			{
+				"state": 4,
+				"operate": 11
+			},
+			{
+				"state": -1,
+				"operate": 11
+			}
+		],
+		"time": 0,
+		"power": 17,
+		"timeout": -1
+	},
+	"10011": {
+		"key": 10011,
+		"type": 2,
+		"cn": "亲，您的账号已在其他设备上登录了哦（S011）",
+		"en": "Opps, you account is login on another device（S011）",
+		"vi": "bạn ơi, tài khoản của bạn đã đăng nhập trên thiết bị khác rồi nhé（S011）",
+		"ms": "Opps, Akaun Anda Telah Di Log Masuk Menggunakan Alatan Lain（S011）",
+		"id": "Opps, akun Anda masuk di perangkat lain（S011）",
+		"th": "เรียน บัญชีของคุณได้เข้าสู่ระบบบนอุปกรณ์อื่นแล้ว (S011)",
+		"button": [
+			{
+				"state": 4,
+				"operate": 12
+			},
+			{
+				"state": -1,
+				"operate": 10
+			}
+		],
+		"time": 0,
+		"power": 18,
+		"timeout": -1
+	},
+	"10012": {
+		"key": 10012,
+		"type": 2,
+		"cn": "亲，当前网络已断开（S012）",
+		"en": "Opps, network disconnected （S012）",
+		"vi": "bạn ơi, liên kết mạng bị đứt mất rồi ~（S012）",
+		"ms": "Opps, Rangkaian Telah Diputuskan（S012）",
+		"id": "Opps, jaringan terputus（S012）",
+		"th": "เรียน เครือข่ายปัจจุบันถูกตัดการเชื่อมต่อ (S012)",
+		"button": [
+			{
+				"state": 1,
+				"operate": 10
+			},
+			{
+				"state": 2,
+				"operate": 11
+			}
+		],
+		"time": 0,
+		"power": 19,
+		"timeout": -1
+	},
+	"10013": {
+		"key": 10013,
+		"type": 2,
+		"cn": "亲，当前网络已断开（S013）",
+		"en": "Opps, network disconnected （S013）",
+		"vi": "bạn ơi, liên kết mạng bị đứt mất rồi ~（S013）",
+		"ms": "Opps, Rangkaian Telah Diputuskan（S013）",
+		"id": "Opps, jaringan terputus（S013）",
+		"th": "เรียน เครือข่ายปัจจุบันถูกตัดการเชื่อมต่อ (S013)",
+		"button": [
+			{
+				"state": 1,
+				"operate": 10
+			},
+			{
+				"state": 2,
+				"operate": 11
+			}
+		],
+		"time": 0,
+		"power": 20,
+		"timeout": -1
+	},
+	"10014": {
+		"key": 10014,
+		"type": 2,
+		"cn": "亲，您的账号已被禁用（S014）",
+		"en": "Opps, you account had been banned （S014）",
+		"vi": "bạn ơi, tài khoản của bạn đã bị khoá mất rồi（S014）",
+		"ms": "Opps, Akaun Anda Sudah Dihalang（S014）",
+		"id": "Opps, akun Anda telah diblokir（S014）",
+		"th": "เรียน บัญชีของคุณถูกปิดใช้งาน (S014)",
+		"button": [
+			{
+				"state": 4,
+				"operate": 12
+			},
+			{
+				"state": -1,
+				"operate": 10
+			}
+		],
+		"time": 0,
+		"power": 21,
+		"timeout": -1
+	},
+	"10015": {
+		"key": 10015,
+		"type": 2,
+		"cn": "亲，您已在$1房间押分（S015）",
+		"en": "Opps, you had bet at $1 room（S015）",
+		"vi": "bạn ơi, bạn đã đặt cược ở bàn $1（S015）",
+		"ms": "Opps, Anda Telah Taruh $1 Pada Bilik（S015）",
+		"id": "Opps, Anda telah bertaruh pada kamar $1 （S015）",
+		"th": "คุณได้เข้าห้อง $1 (S015)",
+		"button": [
+			{
+				"state": 4,
+				"operate": -1
+			},
+			{
+				"state": 2,
+				"operate": 11
+			}
+		],
+		"time": 0,
+		"power": 22,
+		"timeout": -1
+	},
+	"10016": {
+		"key": 10016,
+		"type": 2,
+		"cn": "亲，当前网络已断开（S016）",
+		"en": "Opps, network disconnected （S016）",
+		"vi": "bạn ơi, liên kết mạng bị đứt mất rồi ~（S016）",
+		"ms": "Opps, Rangkaian Telah Diputuskan（S016）",
+		"id": "Opps, jaringan terputus（S016）",
+		"th": "เรียน เครือข่ายปัจจุบันถูกตัดการเชื่อมต่อ (S016)",
+		"button": [
+			{
+				"state": 1,
+				"operate": 10
+			},
+			{
+				"state": 2,
+				"operate": 11
+			}
+		],
+		"time": 0,
+		"power": 23,
+		"timeout": -1
+	},
+	"10017": {
+		"key": 10017,
+		"type": 2,
+		"cn": "亲，当前网络已断开（S017）",
+		"en": "Opps, network disconnected （S017）",
+		"vi": "bạn ơi, liên kết mạng bị đứt mất rồi ~（S017）",
+		"ms": "Opps, Rangkaian Telah Diputuskan（S017）",
+		"id": "Opps, jaringan terputus（S017）",
+		"th": "เรียน เครือข่ายปัจจุบันถูกตัดการเชื่อมต่อ (S017)",
+		"button": [
+			{
+				"state": 1,
+				"operate": 10
+			},
+			{
+				"state": 2,
+				"operate": 11
+			}
+		],
+		"time": 0,
+		"power": 24,
+		"timeout": -1
+	},
+	"10018": {
+		"key": 10018,
+		"type": 2,
+		"cn": "亲，当前不是可游戏时间哦（S018）",
+		"en": "Opps,  it's not the time for the game yet（S018）",
+		"vi": "bạn ơi, hiện giờ chưa đến thời gian của trò chơi nhé（S018）",
+		"ms": "Opps, Bukan Masa Untuk Permainan Ini Lagi（S018）",
+		"id": "Opps, ini belum waktunya untuk permainan（S018）",
+		"th": "เรียน ไม่ใช่เวลาเล่น (S018)",
+		"button": [
+			{
+				"state": 4,
+				"operate": 11
+			},
+			{
+				"state": -1,
+				"operate": 10
+			}
+		],
+		"time": 0,
+		"power": 25,
+		"timeout": -1
+	},
+	"10019": {
+		"key": 10019,
+		"type": 2,
+		"cn": "亲，我们将于$1 - $2进行停服更新哦（S019）",
+		"en": "Please be informed that we will be having schedule maintenance from $1 to $2（S019）",
+		"vi": "bạn ơi, chúng tôi sẽ tạm dừng dịch vụ từ $1 - $2 để nâng cấp hệ thống nhé!（S019）",
+		"ms": "Harap Maklum Kami Ada Jadual Baikpulih $1 Hingga $2（S019）",
+		"id": "Perlu diketahui bahwa kami akan memiliki jadwal pemeliharaan dari $1 hingga $2 （S019）",
+		"th": "เรียน เราจะอัปเดตบริการจาก $1 - $2 (S019)",
+		"button": [
+			{
+				"state": 4,
+				"operate": 11
+			},
+			{
+				"state": -1,
+				"operate": 10
+			}
+		],
+		"time": 0,
+		"power": 26,
+		"timeout": -1
+	},
+	"10020": {
+		"key": 10020,
+		"type": 2,
+		"cn": "亲，余额不足哦，请充值（S020）",
+		"en": "Dear customer, you have insufficient balance. Please top up（S020）",
+		"vi": "Bạn ơi, số dư hiện tại không đủ rồi, bạn nạp thêm đã nhé!（S020）",
+		"ms": "Pelanggan yang dihormati, anda mempunyai keseimbangan yang tidak mencukupi. Sila top up（S020）",
+		"id": "Pelanggan yang terhormat, saldo Anda tidak mencukupi. Tolong isi ulang（S020）",
+		"th": "เรียนลูกค้าคุณมียอดเงินไม่เพียงพอ  กรุณาเติมเงิน（S020）",
+		"button": [
+			{
+				"state": 4,
+				"operate": -1
+			},
+			{
+				"state": 2,
+				"operate": 11
+			}
+		],
+		"time": 0,
+		"power": 27,
+		"timeout": -1
+	},
+	"10021": {
+		"key": 10021,
+		"type": 2,
+		"cn": "亲，我们正在切换至比赛模式（耗时约30分钟）(S021)",
+		"en": "Dear customer, system will turn into contest mode now (will take around 30 mins) (S021)",
+		"vi": "Đang chuyển qua hình thức thi đấu (khoảng 30 phút)(S021)",
+		"ms": "Pelanggan yang dihormati, sistem akan menjadi mod peraduan sekarang (akan mengambil masa kira-kira 30 minit)(S021)",
+		"id": "Pelanggan yang terhormat, sistem akan berada dalam mode kontes sekarang (akan memakan waktu sekitar 30 menit)(S021)",
+		"th": "เรียนลูกค้าระบบจะเข้าสู่โหมดการแข่งขันทันที (จะใช้เวลาประมาณ 30 นาที)(S021)",
+		"button": [
+			{
+				"state": 2,
+				"operate": 11
+			},
+			{
+				"state": -1,
+				"operate": 10
+			}
+		],
+		"time": 0,
+		"power": 28,
+		"timeout": -1
+	},
+	"10022": {
+		"key": 10022,
+		"type": 2,
+		"cn": "亲，我们正在切换回正常模式（耗时约30分钟）(S022)",
+		"en": "Dear customer, system will turn into normal mode now (will take around 30 mins) (S022)",
+		"vi": "Đang chuyển về hình thức bình thường (khoảng 30 phút)(S022)",
+		"ms": "Pelanggan yang dihormati, sistem akan menjadi mod biasa sekarang (akan mengambil masa kira-kira 30 minit)(S022)",
+		"id": "Pelanggan yang terhormat, sistem akan berada dalam mode normal sekarang (akan memakan waktu sekitar 30 menit)(S022)",
+		"th": "เรียนลูกค้าระบบจะเข้าสู่โหมดปกติตอนนี้ (จะใช้เวลาประมาณ 30 นาที)(S022)",
+		"button": [
+			{
+				"state": 2,
+				"operate": 11
+			},
+			{
+				"state": -1,
+				"operate": 10
+			}
+		],
+		"time": 0,
+		"power": 29,
+		"timeout": -1
+	},
+	"10023": {
+		"key": 10023,
+		"type": 2,
+		"cn": "亲，我们正在结算派奖哦（耗时约30分钟）(S023)",
+		"en": "Dear customer, we are in process of calculating prizes (it will take around 30 mins) (S023)",
+		"vi": "Đang tiến hành tổng kết phát thưởng (khoảng 30 phút)(S023)",
+		"ms": "Pelanggan yang dihormati, kami dalam proses mengira hadiah (ia akan mengambil masa kira-kira 30 minit(S023)",
+		"id": "Pelanggan yang terhormat, kami sedang dalam proses menghitung hadiah (akan memakan waktu sekitar 30 menit(S023)",
+		"th": "เรียนลูกค้าเรากำลังคำนวณรางวัล (จะใช้เวลาประมาณ 30 นาที)(S023)",
+		"button": [
+			{
+				"state": 2,
+				"operate": 11
+			},
+			{
+				"state": -1,
+				"operate": 10
+			}
+		],
+		"time": 0,
+		"power": 30,
+		"timeout": -1
+	},
+	"10024": {
+		"key": 10024,
+		"type": 2,
+		"cn": "用户不存在 (S024)",
+		"en": "User not exist (S024)",
+		"vi": "Tài khoản không tồn tại (S024)",
+		"ms": "Pengguna tidak wujud (S024)",
+		"id": "Pengguna tidak ada (S024)",
+		"th": "ไม่มีผู้ใช้งาน (S024)",
+		"button": [
+			{
+				"state": 2,
+				"operate": 11
+			},
+			{
+				"state": -1,
+				"operate": 10
+			}
+		],
+		"time": 0,
+		"power": 31,
+		"timeout": -1
+	},
+	"10025": {
+		"key": 10025,
+		"type": 2,
+		"cn": "禁用游戏踢出用户 (S025)",
+		"en": "禁用游戏踢出用户 (S025)",
+		"vi": "禁用游戏踢出用户 (S025)",
+		"ms": "禁用游戏踢出用户 (S025)",
+		"id": "禁用游戏踢出用户 (S025)",
+		"th": "禁用游戏踢出用户 (S025)",
+		"button": [
+			{
+				"state": 2,
+				"operate": 11
+			},
+			{
+				"state": -1,
+				"operate": 10
+			}
+		],
+		"time": 0,
+		"power": 32,
+		"timeout": -1
+	},
+	"10026": {
+		"key": 10026,
+		"type": 2,
+		"cn": "游戏尚未开放！ (S026)",
+		"en": "Game not open yet (S026)",
+		"vi": "Trò chơi chưa mở! (S026)",
+		"ms": "Permainan belum dibuka (S026)",
+		"id": "Game belum terbuka (S026)",
+		"th": "เกมยังไม่เปิด (S026)",
+		"button": [
+			{
+				"state": 2,
+				"operate": 11
+			},
+			{
+				"state": -1,
+				"operate": 10
+			}
+		],
+		"time": 0,
+		"power": 33,
+		"timeout": -1
+	}
+}

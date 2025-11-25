@@ -58,6 +58,22 @@ namespace VanguardLTE\Games\AmazonsBattleEGT
         public $shop = null;
         public $jpgPercentZero = false;
         public $count_balance = null;
+        public $username = null;
+        public $MaxWin = null;
+        public $increaseRTP = null;
+        public $Denominations = null;
+        public $CurrentDenom = null;
+        public $FishDamage = [];
+        public $gameData = [];
+        public $slotFastStop = null;
+        public $slotCurrency = null;
+        public $AllBet = null;
+        public $toGameBanks = null;
+        public $toSlotJackBanks = null;
+        public $toSysJackBanks = null;
+        public $betProfit = null;
+        public $betRemains = null;
+        public $betRemains0 = null;
         public function __construct($sid, $playerId)
         {
             $this->slotId = $sid;
